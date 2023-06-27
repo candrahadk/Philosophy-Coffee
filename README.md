@@ -1,6 +1,6 @@
 # Philosophy-Coffee
 Source Code Web Philosophy Coffee
-home, about, products, customer
+header, home, about, products, customer, footer
 home sebagai tampilan awal website, about nantinya akan menampilkan paragraph sejarah dan kenapa didirikannya sebuah cafe, products berisikan produk - produk
 top seller, customer menampilkan review dari sebagian pelanggan yang sudah membeli produk di Philosophy Coffee dan ada icon keranjang untuk melakukan transaksi dan juga 
 search icon untuk mencari produk.
